@@ -18,4 +18,6 @@ public class AppTest {
         Assert.assertEquals(expected, App.sha256hex(INPUT));
     }
 
+System.out.print("Can");
+
 }
